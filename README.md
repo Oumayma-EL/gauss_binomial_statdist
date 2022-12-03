@@ -5,7 +5,7 @@ The package is about making the Gaussian, and the Binomial distribution easy to 
 There's The Gaussian sub Module, and the Binomial sub Module as well.
 ## Features:
 With The package , you can :
-* Read from the dataset.
+* Read from the dataset in in text formats.
 * calculate the mean for the Gaussian distribution, and the Binomial distribution as well.
 * calculate the standard deviation .
 * Plot the histogram of the data.
@@ -13,3 +13,10 @@ With The package , you can :
 * Plot the probability density function.
 * Add two Gaussian Distributions .
 * Add two Binomial Distributions (if only they have the same probability p, the complex case is not developed yet may be soon).
+
+## Installation:
+
+```sh 
+pip install gauss-binomial-statdist
+
+```
